@@ -1,0 +1,13 @@
+.feature-section-container-wrap {
+  flex: 1;
+  border: 0.5px solid #ddd;
+  height: 500px;
+}
+.highcharts-credits {
+  visibility: hidden;
+}
+.drop-down-chart-section:first-child {
+  overflow: auto !important;
+  min-width: 300px;
+  overflow-y: hidden;
+}
